@@ -1,0 +1,3 @@
+
+LIBRARY KTC_opencv_intercept
+EXPORTS KTC_image_extract 

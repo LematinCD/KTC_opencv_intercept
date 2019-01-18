@@ -1,0 +1,5 @@
+C:\Users\ktcuser\Desktop\new_opencv_20181229\opencv_test_kk\opencv_test_kk\bin\Release\opencv_test_kk.exe.config
+C:\Users\ktcuser\Desktop\new_opencv_20181229\opencv_test_kk\opencv_test_kk\bin\Release\opencv_test_kk.exe
+C:\Users\ktcuser\Desktop\new_opencv_20181229\opencv_test_kk\opencv_test_kk\bin\Release\opencv_test_kk.pdb
+C:\Users\ktcuser\Desktop\new_opencv_20181229\opencv_test_kk\opencv_test_kk\obj\Release\opencv_test_kk.exe
+C:\Users\ktcuser\Desktop\new_opencv_20181229\opencv_test_kk\opencv_test_kk\obj\Release\opencv_test_kk.pdb

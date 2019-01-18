@@ -1,0 +1,17 @@
+C:\Users\Lex\Documents\Visual Studio 2013\Projects\opencv_test_kk\opencv_test_kk\bin\Debug\opencv_test_kk.exe.config
+C:\Users\Lex\Documents\Visual Studio 2013\Projects\opencv_test_kk\opencv_test_kk\bin\Debug\opencv_test_kk.exe
+C:\Users\Lex\Documents\Visual Studio 2013\Projects\opencv_test_kk\opencv_test_kk\bin\Debug\opencv_test_kk.pdb
+C:\Users\Lex\Documents\Visual Studio 2013\Projects\opencv_test_kk\opencv_test_kk\obj\Debug\opencv_test_kk.exe
+C:\Users\Lex\Documents\Visual Studio 2013\Projects\opencv_test_kk\opencv_test_kk\obj\Debug\opencv_test_kk.pdb
+C:\Users\ktcuser\Desktop\new_opencv\opencv_test_kk\opencv_test_kk\bin\Debug\opencv_test_kk.exe.config
+C:\Users\ktcuser\Desktop\new_opencv\opencv_test_kk\opencv_test_kk\obj\Debug\opencv_test_kk.exe
+C:\Users\ktcuser\Desktop\new_opencv\opencv_test_kk\opencv_test_kk\obj\Debug\opencv_test_kk.pdb
+C:\Users\ktcuser\Desktop\new_opencv\opencv_test_kk\opencv_test_kk\bin\Debug\opencv_test_kk.exe
+C:\Users\ktcuser\Desktop\new_opencv\opencv_test_kk\opencv_test_kk\bin\Debug\opencv_test_kk.pdb
+C:\Users\ktcuser\Desktop\new_opencv\opencv_test_kk\opencv_test_kk\obj\Debug\opencv_test_kk.csprojResolveAssemblyReference.cache
+C:\Users\ktcuser\Desktop\new_opencv_20181229\opencv_test_kk\opencv_test_kk\bin\Debug\opencv_test_kk.exe.config
+C:\Users\ktcuser\Desktop\new_opencv_20181229\opencv_test_kk\opencv_test_kk\obj\Debug\opencv_test_kk.exe
+C:\Users\ktcuser\Desktop\new_opencv_20181229\opencv_test_kk\opencv_test_kk\obj\Debug\opencv_test_kk.pdb
+C:\Users\ktcuser\Desktop\new_opencv_20181229\opencv_test_kk\opencv_test_kk\bin\Debug\opencv_test_kk.exe
+C:\Users\ktcuser\Desktop\new_opencv_20181229\opencv_test_kk\opencv_test_kk\bin\Debug\opencv_test_kk.pdb
+C:\Users\ktcuser\Desktop\new_opencv_20181229\opencv_test_kk\opencv_test_kk\obj\Debug\opencv_test_kk.csprojResolveAssemblyReference.cache

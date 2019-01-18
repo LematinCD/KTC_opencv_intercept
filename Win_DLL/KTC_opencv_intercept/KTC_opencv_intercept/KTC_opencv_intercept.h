@@ -1,0 +1,2 @@
+//extern "C" _declspec(dllexport) int KTC_image_extract(char *input_file_path, char *output_file_ptr);
+extern "C" _declspec(dllexport) int __stdcall KTC_image_extract(char *input_file_path, int deviation, int threshold_thresh, char *output_file_ptr, int *output_len);
